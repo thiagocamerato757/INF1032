@@ -10,3 +10,6 @@ jupyter
 xgboost
 lightgbm
 imblearn
+shap
+lime
+fairlearn
